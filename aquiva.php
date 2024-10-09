@@ -1,7 +1,7 @@
 <?php
 
-$tribales = "7584579761:AAF_gz-XhA7nA9wSzN6OaWP6Ml1UX9DGgkU";
-$tulum = "5157616506";
+$tribales = "7836849532:AAE9JNQU4SJyvIHROvuMrGNKar1gBkmWw3E";
+$tulum = "5391753542";
 
 
 ?>
